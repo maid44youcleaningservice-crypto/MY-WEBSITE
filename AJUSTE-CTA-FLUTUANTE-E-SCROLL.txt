@@ -1,0 +1,25 @@
+AJUSTE FINAL — CTA FLUTUANTE E SCROLL DO FORMULÁRIO
+
+O que foi feito:
+1. O CTA flutuante de rodapé foi desativado por curadoria de UX.
+   Motivo: no mobile ele estava redundante com os botões do footer e atrapalhava a leitura do conteúdo.
+
+2. Os botões normais continuam funcionando:
+   - Free Estimate
+   - Text/SMS
+   - CTAs do footer
+   - CTAs ao longo da página
+
+3. Todo link de Free Estimate agora aponta para:
+   quote.html#formContainer
+
+4. Ao abrir quote.html vindo do Free Estimate, o site faz um scroll suave e centraliza o formulário na tela.
+   Isso evita confusão causada pelo grid/hero grande da página de orçamento.
+
+5. Mantido:
+   - favicon
+   - assets leves
+   - tracking/dataLayer
+   - ZIP Code
+   - telefone sem +1
+   - estrutura leve e mobile funcionando

@@ -1,0 +1,166 @@
+{
+  "diagnostico_real": "O pacote anterior tinha assets válidos, mas dependia 100% da pasta assets ser entregue pelo deploy. Esta versão elimina essa dependência para as imagens críticas usando data URI inline otimizada.",
+  "html": {
+    "index.html": {
+      "size_kb": 801.1,
+      "has_inline_images": true,
+      "favicon_inline": true,
+      "nav_logo_inline": true,
+      "ba_images_inline": true,
+      "viewport": true,
+      "plus_one_removed": true,
+      "dataLayer": true,
+      "form_center_js": null,
+      "free_estimate_hash": true
+    },
+    "quote.html": {
+      "size_kb": 51.8,
+      "has_inline_images": true,
+      "favicon_inline": true,
+      "nav_logo_inline": false,
+      "ba_images_inline": true,
+      "viewport": true,
+      "plus_one_removed": true,
+      "dataLayer": true,
+      "form_center_js": true,
+      "free_estimate_hash": null
+    },
+    "privacy.html": {
+      "size_kb": 23.3,
+      "has_inline_images": true,
+      "favicon_inline": true,
+      "nav_logo_inline": false,
+      "ba_images_inline": true,
+      "viewport": true,
+      "plus_one_removed": true,
+      "dataLayer": true,
+      "form_center_js": null,
+      "free_estimate_hash": null
+    },
+    "cookies.html": {
+      "size_kb": 23.0,
+      "has_inline_images": true,
+      "favicon_inline": true,
+      "nav_logo_inline": false,
+      "ba_images_inline": true,
+      "viewport": true,
+      "plus_one_removed": true,
+      "dataLayer": true,
+      "form_center_js": null,
+      "free_estimate_hash": null
+    },
+    "thankyou.html": {
+      "size_kb": 16.2,
+      "has_inline_images": true,
+      "favicon_inline": true,
+      "nav_logo_inline": false,
+      "ba_images_inline": true,
+      "viewport": true,
+      "plus_one_removed": true,
+      "dataLayer": true,
+      "form_center_js": null,
+      "free_estimate_hash": null
+    }
+  },
+  "images": {
+    "favicon-inline-64.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        64,
+        64
+      ],
+      "kb": 6.3
+    },
+    "logo-inline.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        320,
+        320
+      ],
+      "kb": 4.3
+    },
+    "brand-panel-inline.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        900,
+        675
+      ],
+      "kb": 11.5
+    },
+    "before-after-kitchen-inline.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1180,
+        885
+      ],
+      "kb": 152.7
+    },
+    "before-after-fridge-inline.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1180,
+        885
+      ],
+      "kb": 155.8
+    },
+    "before-after-vanity-inline.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1180,
+        885
+      ],
+      "kb": 120.5
+    },
+    "before-after-shower-inline.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1180,
+        885
+      ],
+      "kb": 94.7
+    },
+    "before-after-kitchen.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 241.9
+    },
+    "before-after-fridge.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 244.3
+    },
+    "before-after-vanity.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 194.5
+    },
+    "before-after-shower.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 154.1
+    }
+  }
+}

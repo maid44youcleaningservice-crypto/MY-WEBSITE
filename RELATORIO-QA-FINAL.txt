@@ -1,0 +1,259 @@
+{
+  "html": {
+    "index.html": {
+      "size_kb": 72.8,
+      "viewport": true,
+      "favicon_installed": true,
+      "base64_removed": true,
+      "missing_asset_refs": [],
+      "plus_one_removed": true,
+      "phone_ok": true,
+      "back_home_link": null,
+      "free_estimate_hash": true,
+      "quote_center_js": null,
+      "dataLayer": true
+    },
+    "quote.html": {
+      "size_kb": 43.2,
+      "viewport": true,
+      "favicon_installed": true,
+      "base64_removed": true,
+      "missing_asset_refs": [],
+      "plus_one_removed": true,
+      "phone_ok": true,
+      "back_home_link": true,
+      "free_estimate_hash": null,
+      "quote_center_js": true,
+      "dataLayer": true
+    },
+    "privacy.html": {
+      "size_kb": 14.7,
+      "viewport": true,
+      "favicon_installed": true,
+      "base64_removed": true,
+      "missing_asset_refs": [],
+      "plus_one_removed": true,
+      "phone_ok": true,
+      "back_home_link": true,
+      "free_estimate_hash": null,
+      "quote_center_js": null,
+      "dataLayer": true
+    },
+    "cookies.html": {
+      "size_kb": 14.4,
+      "viewport": true,
+      "favicon_installed": true,
+      "base64_removed": true,
+      "missing_asset_refs": [],
+      "plus_one_removed": true,
+      "phone_ok": true,
+      "back_home_link": true,
+      "free_estimate_hash": null,
+      "quote_center_js": null,
+      "dataLayer": true
+    },
+    "thankyou.html": {
+      "size_kb": 7.6,
+      "viewport": true,
+      "favicon_installed": true,
+      "base64_removed": true,
+      "missing_asset_refs": [],
+      "plus_one_removed": true,
+      "phone_ok": true,
+      "back_home_link": true,
+      "free_estimate_hash": null,
+      "quote_center_js": null,
+      "dataLayer": true
+    }
+  },
+  "asset_refs_missing": {
+    "index.html": [],
+    "quote.html": [],
+    "privacy.html": [],
+    "cookies.html": [],
+    "thankyou.html": [],
+    "asset-check.html": []
+  },
+  "images": {
+    "android-chrome-192x192.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        192,
+        192
+      ],
+      "kb": 36.7
+    },
+    "android-chrome-512x512.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        512,
+        512
+      ],
+      "kb": 244.1
+    },
+    "apple-touch-icon.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        180,
+        180
+      ],
+      "kb": 33.0
+    },
+    "before-after-fridge.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 244.3
+    },
+    "before-after-fridge.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 133.7
+    },
+    "before-after-kitchen.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 241.9
+    },
+    "before-after-kitchen.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 136.1
+    },
+    "before-after-shower.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 154.1
+    },
+    "before-after-shower.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 69.9
+    },
+    "before-after-vanity.jpg": {
+      "ok": true,
+      "format": "JPEG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 194.5
+    },
+    "before-after-vanity.webp": {
+      "ok": true,
+      "format": "WEBP",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 96.3
+    },
+    "favicon-16x16.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        16,
+        16
+      ],
+      "kb": 0.7
+    },
+    "favicon-32x32.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ],
+      "kb": 2.0
+    },
+    "favicon-48x48.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        48,
+        48
+      ],
+      "kb": 3.8
+    },
+    "favicon-source-1024.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        1024,
+        1024
+      ],
+      "kb": 966.3
+    },
+    "favicon.ico": {
+      "ok": true,
+      "format": "ICO",
+      "size": [
+        48,
+        48
+      ],
+      "kb": 6.6
+    },
+    "inline-image-2-a331960acf.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 1189.5
+    },
+    "logo.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        1254,
+        1254
+      ],
+      "kb": 1334.4
+    },
+    "maid4you-brand-panel.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        1448,
+        1086
+      ],
+      "kb": 1349.2
+    },
+    "maid4you-logo.png": {
+      "ok": true,
+      "format": "PNG",
+      "size": [
+        1254,
+        1254
+      ],
+      "kb": 1513.0
+    }
+  }
+}

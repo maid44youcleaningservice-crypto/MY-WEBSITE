@@ -1,0 +1,74 @@
+{
+  "asset-check.html": {
+    "size_kb": 757.7,
+    "viewport": true,
+    "img_count": 10,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  },
+  "cookies.html": {
+    "size_kb": 50.0,
+    "viewport": true,
+    "img_count": 2,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  },
+  "index.html": {
+    "size_kb": 821.0,
+    "viewport": true,
+    "img_count": 9,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  },
+  "privacy.html": {
+    "size_kb": 65.3,
+    "viewport": true,
+    "img_count": 2,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  },
+  "quote.html": {
+    "size_kb": 78.9,
+    "viewport": true,
+    "img_count": 2,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  },
+  "thankyou.html": {
+    "size_kb": 37.5,
+    "viewport": true,
+    "img_count": 1,
+    "all_img_inline_data": true,
+    "non_data_imgs": [],
+    "favicon_inline": true,
+    "emailjs_ready": true,
+    "company_email_present_or_not_needed": true,
+    "no_plus_one": true,
+    "raw_internal_links_removed": true
+  }
+}

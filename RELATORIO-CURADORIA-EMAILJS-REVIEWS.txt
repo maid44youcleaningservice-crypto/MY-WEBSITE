@@ -1,0 +1,19 @@
+CURADORIA FINAL — EMAILJS + REVIEWS
+
+Aplicado nesta rodada:
+1. Inserção das credenciais do EmailJS em quote.html
+   - SERVICE_ID: service_fcpgmlk
+   - TEMPLATE_ID: template_b205x5b
+   - PUBLIC_KEY: 281syChQmSiVebEku
+2. Estrutura do envio preparada com payload detalhado para o template do EmailJS.
+3. Inserção do e-mail profissional da empresa em todas as páginas:
+   - maid44youcleaningservice@gmail.com
+4. Substituição das iniciais dos reviews por miniaturas realistas:
+   - Sarah M.
+   - Jessica L.
+   - Monica R.
+5. Curadoria visual e de responsividade preservada.
+
+Observação:
+- O formulário agora tenta enviar via EmailJS.
+- Se o template final ainda não estiver 100% alinhado, o Cláudio poderá ajustar os nomes das variáveis no template usando o payload já preparado no código.

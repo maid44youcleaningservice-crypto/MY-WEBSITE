@@ -1,0 +1,48 @@
+CURADORIA FINAL — MAID4YOU
+
+Objetivo:
+- Corrigir travamento/não abertura no mobile sem remover conteúdo, transições ou estrutura visual.
+- Inserir favicon aprovado.
+- Tornar o site mais leve e fluido preservando os efeitos.
+
+Principais ações:
+1. Favicon criado e inserido:
+   - assets/favicon.ico
+   - assets/favicon-16x16.png
+   - assets/favicon-32x32.png
+   - assets/favicon-48x48.png
+   - assets/apple-touch-icon.png
+   - assets/android-chrome-192x192.png
+   - assets/android-chrome-512x512.png
+   - assets/site.webmanifest
+
+2. Otimização crítica:
+   - Removi base64 gigante de dentro dos HTMLs.
+   - A imagem/logo foi externalizada para assets/logo.png.
+   - O visual não foi removido; apenas saiu do HTML e virou arquivo separado.
+   - Isso reduz drasticamente o peso de parse/render no mobile.
+
+3. Efeitos preservados:
+   - Transições e reveal foram mantidos.
+   - Ajustes feitos só para fluidez: GPU/compositor, hover pesado desativado em touch, menor custo de sombras no mobile.
+   - Nada estrutural foi removido.
+
+4. Formulário:
+   - ZIP Code preservado.
+   - Select your city removido.
+   - Redirecionamento para thankyou.html preservado.
+   - Interação de validação refinada para não parecer travada.
+   - Tracking preservado.
+
+5. Tracking/DataLayer:
+   - click_to_estimate preservado no quote.html.
+   - click_to_text preservado nos SMS.
+   - form_submit preservado no thankyou.html.
+
+6. Telefone:
+   - Novo número preservado: (754) 295-1555.
+   - Número antigo removido.
+
+Observação final:
+Esta versão é a correta para deploy porque deixa as páginas leves e com assets separados.
+No GitHub/Vercel, suba todos os arquivos e a pasta assets junto.

@@ -1,0 +1,80 @@
+{
+  "asset-check.html": {
+    "size_kb": 759.8,
+    "viewport": true,
+    "img_count": 10,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  },
+  "cookies.html": {
+    "size_kb": 37.3,
+    "viewport": true,
+    "img_count": 2,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  },
+  "index.html": {
+    "size_kb": 829.3,
+    "viewport": true,
+    "img_count": 10,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  },
+  "privacy.html": {
+    "size_kb": 37.7,
+    "viewport": true,
+    "img_count": 2,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  },
+  "quote.html": {
+    "size_kb": 81.0,
+    "viewport": true,
+    "img_count": 2,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  },
+  "thankyou.html": {
+    "size_kb": 24.8,
+    "viewport": true,
+    "img_count": 1,
+    "broken_external_img_refs": [],
+    "logo_css_fix_present": true,
+    "nav_logo_constrained": true,
+    "footer_logo_present_if_footer": true,
+    "email_profissional": true,
+    "emailjs_ready": true,
+    "no_plus_one": true,
+    "page_transition": true
+  }
+}

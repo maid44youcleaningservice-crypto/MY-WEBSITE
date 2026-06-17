@@ -1,0 +1,37 @@
+MAID4YOU — PACOTE FINAL PARA GITHUB + VERCEL
+
+Este pacote contém todos os arquivos curados para subir no GitHub e deixar a Vercel fazer o deploy automático.
+
+Subir no GitHub:
+1. Abra o repositório do site.
+2. Apague/substitua os arquivos antigos.
+3. Faça upload de TODOS estes itens na raiz do repositório:
+   - index.html
+   - quote.html
+   - thankyou.html
+   - privacy.html
+   - cookies.html
+   - pasta assets inteira
+
+Muito importante:
+- Não suba a pasta 'maid4you_github_vercel_final' como uma pasta dentro do repositório.
+- Entre dentro dela e suba o conteúdo.
+- A pasta assets precisa ir junto. Sem ela, logo, favicon e imagens podem quebrar.
+- Depois do commit, a Vercel faz deploy automaticamente.
+- O link da Vercel será o preview para enviar ao cliente.
+
+Eventos/DataLayer:
+- click_to_estimate: dispara ao abrir quote.html.
+- click_to_text: dispara ao clicar em SMS/Text.
+- form_submit: dispara ao abrir thankyou.html.
+
+Correções preservadas:
+- Telefone padrão: (754) 295-1555.
+- Formulário com ZIP Code.
+- Select your city removido.
+- Thank you page criada.
+- Favicon instalado.
+- HTMLs leves, sem imagens gigantes em base64.
+- Efeitos/transições preservados com curadoria de fluidez.
+
+Atualização final: removido o +1 do telefone em todo o site. Visual e links agora usam (754) 295-1555 / 7542951555.
